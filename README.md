@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my profile!!!
-I am Dimbsb
+-I am Dimbsb
 -Student of Electrical and Computer Engineering at University of Western Macedonia.
 
 - 🔭 I’m currently working on various programming projects involving languages such as C, C++, Java, Assembly and MATLAB.
