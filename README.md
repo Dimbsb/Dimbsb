@@ -1,5 +1,5 @@
 ## Hi there 👋 Welcome to my profile!!!
--I am Dimbsb
+-I am Dimitrios Bismpas
 
 -Student of Electrical and Computer Engineering at University of Western Macedonia.
 
