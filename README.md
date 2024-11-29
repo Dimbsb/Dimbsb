@@ -17,6 +17,9 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
+![3D Contributions](https://github.com/Dimbsb/Dimbsb/blob/main/3d-contributions.png)
+
+
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
 
