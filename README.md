@@ -18,11 +18,6 @@
 - 🌱 I’m currently learning UnrealEngine
 
 
-![GitHub Contribution Snake](https://github.com/Dimbsb/Dimbsb/blob/output/github-contribution-grid-snake.svg)
-
-
-
-
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
 
 
