@@ -17,7 +17,8 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
-![3D Contributions](https://github.com/Dimbsb/Dimbsb/blob/main/3d-contributions.png)
+![Jokes Card](https://readme-jokes.vercel.app/api)
+
 
 
 
