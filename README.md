@@ -17,7 +17,7 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
-![Visitor Count](https://visitor-badge.glitch.me/badge?page_id=Dimbsb)
+![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
 
 
