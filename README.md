@@ -17,6 +17,9 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
 
 
