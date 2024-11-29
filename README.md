@@ -17,7 +17,19 @@
 - 🌱 I’m currently learning UnrealEngine
 
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
+<table style="width:100%; border:none;">
+  <tr>
+    <td style="text-align:center;">
+      <h3>Most Used Languages</h3>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact" alt="Most Used Languages" />
+    </td>
+    <td style="text-align:center;">
+      <h3>Random Programming Joke</h3>
+      <img src="https://readme-jokes.vercel.app/api" alt="Jokes Card" />
+    </td>
+  </tr>
+</table>
+
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
