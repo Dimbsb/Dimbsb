@@ -17,9 +17,6 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
-![GitHub Contribution Graph](https://activity-graph.herokuapp.com/graph?username=Dimbsb&theme=react-dark)
-
-
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
 
