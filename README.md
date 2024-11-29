@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hi+there+👋+Welcome+to+my+GitHub+Profile!!!;I+am+Dimitrios+Bismpas;I+❤️+Open+Source!;Happy+Coding!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi+there+👋+Welcome+to+my+GitHub+Profile!!!;I+am+Dimitrios+Bismpas;I+❤️+Open+Source!;Happy+Coding!)](https://git.io/typing-svg)
 
 -Student of Electrical and Computer Engineering at University of Western Macedonia.
 
@@ -15,10 +15,6 @@
 - Constantly exploring new challenges and pushing the boundaries of my technical knowledge in software and hardware integration.
 
 - 🌱 I’m currently learning UnrealEngine
-
-![Jokes Card](https://readme-jokes.vercel.app/api)
-
-
 
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
