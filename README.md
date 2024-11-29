@@ -1,6 +1,4 @@
-## Hi there 👋 Welcome to my profile!!!
--I am Dimitrios Bismpas
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Welcome+to+my+GitHub+Profile!;I+❤️+Open+Source!;Happy+Coding!)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=F70000&lines=Hi+there+👋+Welcome+to+my+GitHub+Profile!!!;I+am+Dimitrios+Bismpas;I+❤️+Open+Source!;Happy+Coding!)](https://git.io/typing-svg)
 
 -Student of Electrical and Computer Engineering at University of Western Macedonia.
 
