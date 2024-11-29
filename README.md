@@ -17,3 +17,6 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
+- ![Profile views](https://komarev.com/ghpvc/?Dimbsb=Dimbsb&color=blue)
+
+
