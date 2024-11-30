@@ -16,6 +16,8 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
+![Banner](https://media.giphy.com/media/3o7aD2saalBwwftBIY/giphy.gif)
+
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
 
 
