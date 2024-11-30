@@ -16,10 +16,18 @@
 
 - 🌱 I’m currently learning UnrealEngine
 
-![Activity Graph](https://github-readme-activity-graph.cyclic.app/graph?username=Dimbsb&theme=react-dark)
 
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yourname&layout=compact&theme=radical" alt="Top Languages" />
+    </td>
+    <td>
+      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
+    </td>
+  </tr>
+</table>
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical)
 
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
