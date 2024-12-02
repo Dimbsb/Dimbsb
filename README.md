@@ -10,7 +10,7 @@
 
 
 
-- I’m currently working on a variety of programming projects, with a strong focus on scientific computing, hardware interfacing, and low-level programming. 
+- I’m working on a variety of programming projects, with a strong focus on scientific computing, hardware interfacing, and low-level programming. 
 
 - Constantly exploring new challenges and pushing the boundaries of my technical knowledge in software and hardware integration.
 
