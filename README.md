@@ -29,7 +29,7 @@
 </table>
 
 
-![Most used Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical" alt="Top Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical" alt="Top Languages)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
 
