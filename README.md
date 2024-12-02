@@ -17,19 +17,7 @@
 - 🌱 I’m currently learning UnrealEngine
 
 
-<table>
-  <tr>
-    <td>
-      <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical" alt="Top Languages" />
-    </td>
-    <td>
-      <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark" alt="Quote" />
-    </td>
-  </tr>
-</table>
-
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&layout=compact&theme=radical" alt="Top Languages)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&theme=tokyonight)
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
 
