@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi+there+👋+Welcome+to+my+GitHub+Profile!!!;I+am+Dimitrios+Bismpas)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=00FF00&lines=Hi+there+👋+Welcome+to+my+GitHub+Profile!!!;I+am+Dimitrios+Bismpas;)](https://git.io/typing-svg)
 
 -Student of Electrical and Computer Engineering at University of Western Macedonia.
 
