@@ -17,10 +17,6 @@
 - 🌱 I’m currently learning UnrealEngine
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dimbsb&theme=tokyonight)
-
-
-
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
 
