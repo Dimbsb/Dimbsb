@@ -19,7 +19,7 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
-![GitHub Streak](https://streak-stats.demolab.com?user=Dimbsb&theme=dark&hide_border=true)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dimbsb&theme=dracula)
 
 
 
