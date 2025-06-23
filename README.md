@@ -17,6 +17,6 @@
 - 🌱 I’m currently learning Unity Engine
 
 
-![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
+![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=blue)
 
 
