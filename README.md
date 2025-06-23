@@ -19,7 +19,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
-![Trophies](https://github-profile-trophy.vercel.app/?username=Dimbsb&theme=dracula&no-bg=true&title=committer,issues,pullRequest,reviewer)
+![Trophies](https://github-profile-trophy.vercel.app/?username=Dimbsb&theme=dracula&no-bg=true&title=committer,issues,reviewer)
+
 
 
 
