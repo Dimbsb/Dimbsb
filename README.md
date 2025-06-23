@@ -19,5 +19,8 @@
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=green)
 
+![Contribution Snake](https://github.com/Dimbsb/Dimbsb/blob/output/github-contribution-grid-snake.svg)
+
+
 
 
