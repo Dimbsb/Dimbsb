@@ -14,8 +14,6 @@
 
 - Constantly exploring new challenges and pushing the boundaries of my technical knowledge in software and hardware integration.
 
-- 🌱 I’m currently learning Unity Engine
-
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Dimbsb&color=blue)
 
